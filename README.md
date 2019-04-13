@@ -1,5 +1,5 @@
 # Python-Stock-Data-API
-Basic python program with GUI to retrieve stock data using an API
+Basic python **program with GUI** to retrieve stock data using an API
 
 
 To get this program *working* you have to get an *API key* at https://www.alphavantage.co/support/#api-key
