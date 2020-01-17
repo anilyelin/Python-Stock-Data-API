@@ -207,6 +207,7 @@ class App:
         canvas._tkcanvas.pack(side = tk.TOP, fill = tk.BOTH, expand = 1)
     
     def close(self):
+        """function to quit the app"""
         self.main.destroy()
 
     def show_data(self):
