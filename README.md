@@ -6,7 +6,6 @@ To get this program *working* you have to get an *API key* <a href="https://www.
 
 You can retrieve all the relevant stock data from all *NASDAQ* listed companies and output the graph of the day close price. There is also the ability to store the day close data from a specific company into a sqlite3 file. 
 
-However this program is only tested on **Mac OS Sierra with python3.6.**
 
 ## Screenshot
 
