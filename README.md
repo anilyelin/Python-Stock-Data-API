@@ -15,3 +15,4 @@ However this program is only tested on **Mac OS Sierra with python3.6.**
 
 ## Requirements
 - Matplotlib 3.1.3
+- Python >= 3.7
