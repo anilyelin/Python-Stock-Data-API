@@ -8,4 +8,10 @@ You can retrieve all the relevant stock data from all *NASDAQ* listed companies 
 
 However this program is only tested on **Mac OS Sierra with python3.6.**
 
-A screenshot of this program can be found <a href="https://imgur.com/a/9FFIos0?">here</a>
+## Screenshot
+
+![Figure 1: Screenshot](https://github.com/anilyelin/Python-Stock-Data-API/blob/master/screenshot.png "Figure 1: Program Interface")
+
+
+## Requirements
+- Matplotlib 3.1.3
